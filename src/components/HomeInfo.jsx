@@ -11,7 +11,7 @@ const HomeInfo = ({ currentStage }) => {
 
         👋
         <br />
-        MS RAS(AI) <br /> Grad Students from Arizona State University
+        MS RAS(AI) <br /> Grad Student from Arizona State University
       </h1>
     );
 
